@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../YASH/CSS/Black-slate"
+		},
+		{
+			"path": "../../PORTFOLIO"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORTFOLIO"
+	}
+}
